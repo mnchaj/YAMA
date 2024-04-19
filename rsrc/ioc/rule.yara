@@ -6,6 +6,7 @@ rule MNC_APT_2024_PUBLOAD_Shell
     condition: 
         all of them
 }
+//aaatest
 
 rule APT10_ANEL_InitRoutine {
       meta:
