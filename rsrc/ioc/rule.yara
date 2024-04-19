@@ -7,6 +7,8 @@ rule MNC_APT_2024_PUBLOAD_Shell
         all of them
 }
 
+//aaaa
+
 rule APT10_ANEL_InitRoutine {
       meta:
         description = "ANEL malware"
